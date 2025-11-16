@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#C9A66B"          # Lehigh Gold
+backgroundColor="#FFFFFF"        # White
+secondaryBackgroundColor="#F9F4EE"  # Bone
+textColor="#4D3826"              # Lehigh Brown
+font="serif"
